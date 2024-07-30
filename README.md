@@ -18,11 +18,11 @@ Sobre:
 
 <table>
   <tr>
-    <td>Programming<br>Languages</td>
+    <td>Linguagens</td>
     <td>Cloud</td>
-    <td>Databases</td>
-    <td>Libraries and Frameworks</td>
-    <td>Tools</td>
+    <td>Database</td>
+    <td>Bibliotecas e Frameworks</td>
+    <td>Ferramentas</td>
   </tr>
   <tr>
     <td>
