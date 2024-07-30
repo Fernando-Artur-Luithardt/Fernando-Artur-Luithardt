@@ -1,16 +1,76 @@
-## Hi there 👋
+<h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**Fernando-Artur-Luithardt/Fernando-Artur-Luithardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-fernandoArtur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-artur-0980a21a3/)](https://www.linkedin.com/in/fernando-artur-0980a21a3/) 
+[![Gmail Badge](https://img.shields.io/badge/-fluithardt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:fluithardt@gmail.com)
+
+Olá, Sou Fernando Artur 😃
+
+<hr>
+
+## ⚡ Tecnologias
+Sobre:
+- Backend **PHP**
+- Front-end **VueJs** | **Jquery**
+- Css **Tailwind** | **Bootstrap5** | **CSS**
+- Sql **MySQL**. | **PostgreSQL**
+
+<table>
+  <tr>
+    <td>Programming<br>Languages</td>
+    <td>Cloud</td>
+    <td>Databases</td>
+    <td>Libraries and Frameworks</td>
+    <td>Tools</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="PHP" title="PHP 8" width="40px" height:"40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+      <img alt="JS" title="JavaScript" width="40px" height:"40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+      <img alt="JQ" title="Jquery" width="40px" height:"40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
+    </td>
+    <td>
+      <img title="AWS" alt="AWS" width="40px" src="https://www.hostinger.com.br/favicon.ico">
+    </td>
+    <td>
+      <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+    </td>
+    <td>
+      <img title="Laravel" alt="Laravel 11" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">
+      <img title="Vue3" alt="Vue3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
+    </td>
+    <td>
+      <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+      <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+    </td>
+  </tr>  
+</table>
+<hr>
+
+## 🎯 Projetos (Em Produção)
+Orçamentos:
+- <a href="https://irtintas.com.br">irtintas.com.br</a>
+- Laravel 11
+- Jquery
+- Tailwind
+- MySQL
+- POO
+- MVC
+
+Agendamentos: (Cliente)
+- <a href="https://agendamentosbagatoli.com.br">agendamentosbagatoli.com.br</a>
+- Jquery
+- Bootstrap 5
+
+Agendamentos: (Admin)
+- <a href="https://app.horacheia.com.br">app.horacheia.com.br</a>
+- Laravel 11
+- API
+- MVC
+- Vue3 / Inertia
+- Base de dados única por cliente
+
+<hr>
+
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=Fernando-Artur-Luithardt&hide=["issues"]&show_icons=true&theme=dracula)
