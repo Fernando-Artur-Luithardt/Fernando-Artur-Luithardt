@@ -59,12 +59,12 @@ Orçamentos:
 - MVC
 
 Agendamentos: (Cliente)
-- <a href="https://agendamentosbagatoli.com.br">agendamentosbagatoli.com.br</a>
+- <a href="https://barbearia.horacheia.com.br">agendamentosbagatoli.com.br</a>
 - Jquery
 - Bootstrap 5
 
 Agendamentos: (Admin)
-- <a href="https://app.horacheia.com.br">app.horacheia.com.br</a>
+- <a href="https://horacheia.com.br">app.horacheia.com.br</a>
 - Laravel 11
 - API
 - MVC
