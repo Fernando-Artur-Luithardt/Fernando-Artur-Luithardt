@@ -59,7 +59,7 @@ Orçamentos:
 - MVC
 
 Agendamentos: (Cliente)
-- <a href="https://barbearia.horacheia.com.br">barbearia.horacheia.com.br</a> (Link para Testes)
+- <a href="https://barbearia.horacheia.com.br">barbearia.horacheia.com.br</a> (Link para Teste)
 - Jquery
 - Bootstrap 5
 
