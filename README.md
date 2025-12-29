@@ -49,14 +49,6 @@ Sobre:
 <hr>
 
 ## 🎯 Projetos (Em Produção)
-Orçamentos:
-- <a href="https://irtintas.com.br">irtintas.com.br</a>
-- Laravel 11
-- Jquery
-- Tailwind
-- MySQL
-- POO
-- MVC
 
 Agendamentos: (Cliente)
 - <a href="https://barbearia.horacheia.com.br">barbearia.horacheia.com.br</a> (Link para Teste)
