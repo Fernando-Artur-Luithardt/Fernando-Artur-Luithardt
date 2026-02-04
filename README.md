@@ -31,7 +31,7 @@ Sobre:
       <img alt="JQ" title="Jquery" width="40px" height:"40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
     </td>
     <td>
-      <img title="AWS" alt="AWS" width="40px" src="https://www.hostinger.com.br/favicon.ico">
+      <img title="HOSTINGER" alt="HOSTINGER" width="40px" src="https://w7.pngwing.com/pngs/292/493/png-transparent-hostinger-hd-logo.png">
     </td>
     <td>
       <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
@@ -54,15 +54,24 @@ Agendamentos: (Cliente)
 - <a href="https://barbearia.horacheia.com.br">barbearia.horacheia.com.br</a> (Link para Teste)
 - Jquery
 - Bootstrap 5
+- API (Consumo)
+- Deploy (VPS - Hostinger)
 
 Agendamentos: (Admin)
-- <a href="https://horacheia.com.br">app.horacheia.com.br</a>
+- <a href="https://horacheia.com.br"> horacheia.com.br</a> (Link de login apenas para clientes)
 - Laravel 11
 - API
 - MVC
-- Vue3 / Inertia
+- Vue.js
+- Inertia
+- JS
+- Tailwind Css
+- MySql
 - Base de dados única por cliente
+- Deploy (VPS - Hostinger)
 
-<hr>
-
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=Fernando-Artur-Luithardt&hide=["issues"]&show_icons=true&theme=dracula)
+baiaonline: (Landing Page)
+- <a href="https://baiaonline.com.br"> baiaonline.com.br</a>
+- Tailwind Css
+- HTML
+- JS
